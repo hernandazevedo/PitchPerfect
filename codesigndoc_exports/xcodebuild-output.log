@@ -1,0 +1,14 @@
+User defaults from command line:
+    IDEArchivePathOverride = /var/folders/w6/vzxr97jx06b6qc4y37fkdkfr0000gp/T/__codesigndoc__887077867/PitchPerfect.xcarchive
+
+note: Using new build system
+
+** CLEAN SUCCEEDED **
+
+note: Using new build system
+note: Planning build
+note: Constructing build description
+Build system information
+error: No profiles for 'com.hernandazevedo.PitchPerfect' were found: Xcode couldn't find any iOS App Development provisioning profiles matching 'com.hernandazevedo.PitchPerfect'. Automatic signing is disabled and unable to generate a profile. To enable automatic signing, pass -allowProvisioningUpdates to xcodebuild. (in target 'PitchPerfect')
+
+** ARCHIVE FAILED **
